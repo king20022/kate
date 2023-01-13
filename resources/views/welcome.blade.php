@@ -16,7 +16,7 @@
     <meta name="author" content="Katy Linda Services" />
 
     <!--  FavIcon  -->
-    <link rel="shortcut icon" href="/assets/image/logo.png">
+    <link rel="shortcut icon" href="/assets/image/200.png">
 
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;700&amp;display=swap"
@@ -96,7 +96,7 @@
     <header id="header" class="header fixed-top">
         <nav id="scrollspy" class="navbar navbar-expand-lg header-nav">
             <div class="container">
-                <a class="navbar-brand  mr-lg-3 mr-xl-5 base-color" href="#">Katy Linda</a>
+                <a class="navbar-brand  mr-lg-3 mr-xl-5 base-color" href="#"> Katy Linda</a>
                 <!--  Navbar Toggler Button Start -->
                 <button class="navbar-toggler collapsed " type="button" data-toggle="collapse"
                     data-target="#toggle-menu" aria-controls="toggle-menu" aria-expanded="false"
@@ -146,7 +146,7 @@
                                 comfortable
                                 in finding confidence in yourself and becoming the best you can be.</p>
                             <a href="#contact" class="pill-button-01">Send A Mail</a>
-                            <a href="https://wa.me/+18172034274?text=Hi%20Anna,%20My%20name%20is"
+                            <a href="https://wa.me/+18172034274?text=Hi%20Katy,%20My%20name%20is"
                                 class="pill-button-01" style="margin: 10px;"><i class="lni lni-whatsapp"></i> Send A
                                 Whatsapp Message</a>
                         </div>
@@ -212,8 +212,7 @@
                             <!--<li class="list-inline-item"><a href="javascript:void(0);"><i class="lni lni-telegram-original"></i></a></li>-->
                             <li class="list-inline-item"><a href="#"><i class="lni lni-instagram"></i></a></li>
                             <li class="list-inline-item"><a
-                                    href="https://wa.me/+18172034274?text=Hi%20Katy
-                                    ,%20My%20name%20is"><i
+                                    href="https://wa.me/+18172034274?text=Hi%20Katy,%20My%20name%20is"><i
                                         class="lni lni-whatsapp"></i></a></li>
 
                         </ul>
@@ -799,7 +798,7 @@
                         </div>
                         <div class="info-text">
                             <h5 class=" mb-0">Mail Me</h5>
-                            <small><a href="mailto:Katylinda340@gmail.com">Katylinda340@gmail</a></small>
+                            <a href="mailto:Katylinda340@gmail.com" class="btn btn-success"><small>Contact Now Via Email</small></a>
                         </div>
                     </div>
                 </div>
@@ -861,11 +860,11 @@
                                 class="lni lni-whatsapp"></i></a></li>
                 </ul>
             </div>
-            <p class="mb-0">Copyright © 2021. Katy Linda Services</p>
+            <p class="mb-0">Copyright © 2019. Katy Linda Services</p>
         </div>
     </footer>
     <!--   Footer End  -->
-    <a href="https://wa.me/+18172034274?text=Hi%20Anna,%20My%20name%20is" class="float" target="_blank">
+    <a href="https://wa.me/+18172034274?text=Hi%20Katy,%20My%20name%20is" class="float" target="_blank">
         <i class="fab fa-whatsapp my-float"></i>
     </a>
     <!--   Return To Top  -->
