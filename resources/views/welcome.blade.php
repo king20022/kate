@@ -895,6 +895,8 @@
     <script src="/assets/js/jquery.easing.min.js"></script>
     <!--  Custom JS  -->
     <script src="/assets/js/westin.js"></script>
+    {{-- tidio  --}}
+    <script src="//code.tidio.co/uf8fb1zqiurgo440khkpx5ixsrsqxbiw.js" async></script>
     <!--Start of Tawk.to Script-->
     {{-- <script type="text/javascript">
         var Tawk_API = Tawk_API || {},
