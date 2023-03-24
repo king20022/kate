@@ -146,7 +146,7 @@
                                 comfortable
                                 in finding confidence in yourself and becoming the best you can be.</p>
                             <a href="#contact" class="pill-button-01">Send A Mail</a>
-                            <a href="https://wa.me/+18172034274?text=Hi%20Katy,%20My%20name%20is"
+                            <a href="https://wa.me/+17602066467?text=Hi%20Katy,%20My%20name%20is"
                                 class="pill-button-01" style="margin: 10px;"><i class="lni lni-whatsapp"></i> Send A
                                 Whatsapp Message</a>
                         </div>
@@ -212,7 +212,7 @@
                             <!--<li class="list-inline-item"><a href="javascript:void(0);"><i class="lni lni-telegram-original"></i></a></li>-->
                             <li class="list-inline-item"><a href="#"><i class="lni lni-instagram"></i></a></li>
                             <li class="list-inline-item"><a
-                                    href="https://wa.me/+18172034274?text=Hi%20Katy,%20My%20name%20is"><i
+                                    href="https://wa.me/+17602066467?text=Hi%20Katy,%20My%20name%20is"><i
                                         class="lni lni-whatsapp"></i></a></li>
 
                         </ul>
@@ -810,7 +810,7 @@
                         </div>
                         <div class="info-text">
                             <h5 class="mb-0">Contact Us On</h5>
-                            <a href="https://wa.me/+18172034274?text=Hi%20Katy,%20My%20name%20is"
+                            <a href="https://wa.me/+17602066467?text=Hi%20Katy,%20My%20name%20is"
                                 class="btn btn-success"><small>Contact Now Via Whatsapp</small></a>
                             {{-- <br><small>+1 (817)-203-4274 </small> --}}
                         </div>
@@ -856,7 +856,7 @@
                     <!--<li class="list-inline-item"><a href="javascript:void(0);"><i class="lni lni-telegram-original"></i></a></li>-->
                     <li class="list-inline-item"><a href="#"><i class="lni lni-instagram"></i></a></li>
                     <li class="list-inline-item"><a
-                            href="https://wa.me/+18172034274?text=Hi%20Katy,%20My%20name%20is"><i
+                            href="https://wa.me/+17602066467?text=Hi%20Katy,%20My%20name%20is"><i
                                 class="lni lni-whatsapp"></i></a></li>
                 </ul>
             </div>
@@ -864,8 +864,9 @@
         </div>
     </footer>
     <!--   Footer End  -->
-    <a href="https://wa.me/+18172034274?text=Hi%20Katy,%20My%20name%20is" class="float" target="_blank">
+    <a href="https://wa.me/+17602066467?text=Hi%20Katy,%20My%20name%20is" class="float" target="_blank">
         <i class="fab fa-whatsapp my-float"></i>
+        
     </a>
     <!--   Return To Top  -->
     <a class="return-to-top d-inline-block" href="javascript:void(0)"><i class="lni lni-arrow-up"></i></a>
